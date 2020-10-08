@@ -79,10 +79,10 @@ export default class Connection {
       if (data.ts && Date.now() - data.ts > 5000 || data.ts == undefined || data.username == med.username) return;
       if (data.subEvent == "recording") {
         if (data.isRecording) {
-          var notification = data.username + " started recording this meething";
+          var notification = data.username + " started recording this DeStream";
           med.h.showRemoteNotification(notification);
         } else {
-          var notification = data.username + " stopped recording this meething"
+          var notification = data.username + " stopped recording this DeStream"
           med.h.showRemoteNotification(notification);
         }
       } else if (data.subEvent == "grid") {

@@ -1,8 +1,8 @@
 
 
-# DeStream : Decentralized video streaming
+# DeStreams : Decentralized video streaming
 
-DeStream is a decentralized video streaming application using modern WebRTC, [GunDB](http://gun.eco) , [MediaSoup](https://mediasoup.org/) and [IPFS](https://ipfs.io) to produce a hybrid MESH-SFU with strong privacy, zero user data retention and powerful off-grid capabilities.
+DeStreams is a decentralized video streaming application using modern WebRTC, [GunDB](http://gun.eco) , [MediaSoup](https://mediasoup.org/) and [IPFS](https://ipfs.io) to produce a hybrid MESH-SFU with strong privacy, zero user data retention and powerful off-grid capabilities.
 
 <img src="https://user-images.githubusercontent.com/1423657/78457103-3260a800-76a8-11ea-8c7a-c909c88ba716.png" width=500>
 
@@ -33,7 +33,7 @@ npm install
 * Choose a Room and User name
 * Share link with other participants
 
-The DeStream  application will connect to community Gun nodes for user discovery. All room data/audio/video is p2p.
+The DeStreams  application will connect to community Gun nodes for user discovery. All room data/audio/video is p2p.
 
 
 #### SuperPeers

@@ -35,11 +35,6 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22 or latest]
  - Wifi or Cellular network
 
-**Additional context**
-- Link you used? (Such as https://meething.hepic.tel/)
-- Branch you used? (Such as fix_audio)
-
-Add any other context about the problem here.
 
 **Metric**
 - Perfomance / Benchmarking

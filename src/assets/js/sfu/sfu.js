@@ -52,7 +52,7 @@ export default class SFU extends EventEmitter {
     }
 
     joinRoom(room, peerId) {
-        console.log("SFU::Join %s meething", room);
+        console.log("SFU::Join %s DeStream", room);
         this.room = room;
         this.sfuRoom.join(room, peerId);
     }

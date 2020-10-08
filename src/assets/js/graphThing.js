@@ -60,7 +60,7 @@ export default class Graph {
 
       if(this.mediator.DEBUG) { console.log('Worker Version 2: Starting traversal')}
 
-      if(this.mediator.DEBUG) { console.log('Starting with: meething')}
+      if(this.mediator.DEBUG) { console.log('Starting with: DeStream')}
 
       label = 'label';
       start = 'meething';

@@ -4,6 +4,8 @@
 
 DeStreams is a decentralized video streaming application using modern WebRTC, [GunDB](http://gun.eco) , [MediaSoup](https://mediasoup.org/) and [IPFS](https://ipfs.io) to produce a hybrid MESH-SFU with strong privacy, zero user data retention and powerful off-grid capabilities.
 
+Try it at https://destreams.zil using [Unstoppable Domains extension](https://unstoppabledomains.com/extension)
+
 <img src="https://user-images.githubusercontent.com/1423657/78457103-3260a800-76a8-11ea-8c7a-c909c88ba716.png" width=500>
 
 

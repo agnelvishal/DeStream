@@ -16,10 +16,7 @@ Try it at https://destreams.zil using [Unstoppable Domains extension](https://un
 ### Installation
 
 
-* Clone the repository and install using
-```
-npm install
-```
+* Clone the repository.
 
 * Paste the ```src``` folder in an IPFS pinning service like [Textile Buckets](https://textile.io) or [Pinata](https://pinata.cloud)
 

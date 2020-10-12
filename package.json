@@ -1,7 +1,7 @@
 {
-  "name": "webrtc-gun",
-  "version": "0.0.2",
-  "description": "A conference call implementation using WebRTC, GunDB and Node.js.",
+  "name": "DeStreams",
+  "version": "1.0.0",
+  "description": "A video conference call implementation using WebRTC, GunDB and IPFS.",
   "main": "src/app.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lmangani/webrtc-gun.git"
+    "url": "git+https://github.com/agnelvishal/DeStreams.git"
   },
   "keywords": [
     "LiveStream",
@@ -28,5 +28,5 @@
     "node": "10.x"
   },
   "license": "MIT",
-  "homepage": "https://github.com/lmangani/webrtc-gun#readme"
+  "homepage": "https://agnelvishal.github.io/DeStreams"
 }

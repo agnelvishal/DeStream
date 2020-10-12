@@ -21,8 +21,6 @@ npm install
 
 * Paste the ```src``` folder in an IPFS pinning service like [Textile Buckets](https://textile.io) or [Pinata](https://pinata.cloud)
 
-#### Configuration
-* Customize `meething.config.js` to set the desired port and other environment variables
 
 
 

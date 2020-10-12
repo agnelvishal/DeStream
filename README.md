@@ -27,11 +27,11 @@ npm install
 * Configure your SSL certificate &amp; key in `certs/` by either copying `certs/fullchain.pem.example` to `certs/fullchain.pem` and `certs/privkey.pem.example` to `certs/privkey.pem` or using your own certificate &amp; key
 
 
-### Usage
+### Features and Usage
 * Browse to the configured HTTPS port _(default 3443)_
-* Accept the self-signed certificates _(if needed)_
 * Choose a Room and User name
 * Share link with other participants
+* Password protect room if needed
 
 The DeStreams  application will connect to community Gun nodes for user discovery. All room data/audio/video is p2p.
 

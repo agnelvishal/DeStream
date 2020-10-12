@@ -16,7 +16,7 @@ Try it at https://destreams.zil using [Unstoppable Domains extension](https://un
 ### Installation
 
 
-* Clone the repository and install using `npm`
+* Clone the repository and install using
 ```
 npm install
 ```

@@ -22,9 +22,8 @@ npm install
 * Paste the ```src``` folder in an IPFS pinning service like [Textile Buckets](https://textile.io) or [Pinata](https://pinata.cloud)
 
 #### Configuration
-* Copy the example `meething.config.example.js` to `meething.config.js`
 * Customize `meething.config.js` to set the desired port and other environment variables
-* Configure your SSL certificate &amp; key in `certs/` by either copying `certs/fullchain.pem.example` to `certs/fullchain.pem` and `certs/privkey.pem.example` to `certs/privkey.pem` or using your own certificate &amp; key
+
 
 
 ### Features and Usage

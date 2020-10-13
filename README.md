@@ -18,7 +18,7 @@ Try it at https://destreams.zil using [Unstoppable Domains extension](https://un
 
 * Clone the repository.
 
-* Paste the ```src``` folder in an IPFS pinning service like [Textile Buckets](https://textile.io) or [Pinata](https://pinata.cloud)
+* Paste the ```assets``` folder, ```ws``` folder and ```index.html``` file in an IPFS pinning service like [Textile Buckets](https://textile.io) or [Pinata](https://pinata.cloud)
 
 
 
